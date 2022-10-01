@@ -1,4 +1,3 @@
-
 <!doctype html>
 <html lang="en">
 
@@ -22,16 +21,17 @@
     <main>
         <div class="container text-center">
             <form action="sesion.php" method="POST">
-            <br><br>
-            <p>Nombre de Usuario</p>
-            <input type="text" name="user" placeholder="Ingrese su usuario">
-            <br><br>
-            <p>Contraseña</p>
-            <input type="password" name="pass" placeholder="Ingrese su contraseña">
-            <br><br>
-            <input type="submit" name="log" value="Ingresar">
+                <br><br>
+                <p>Nombre de Usuario</p>
+                <input type="text" name="user" placeholder="Ingrese su usuario">
+                <br><br>
+                <p>Contraseña</p>
+                <input type="password" name="pass" placeholder="Ingrese su contraseña">
+                <br><br>
+                <input type="submit" name="log" value="Ingresar">
             </form>
         </div>
+
     </main>
     <footer>
         <!-- place footer here -->
