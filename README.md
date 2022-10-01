@@ -3,5 +3,5 @@
   <b>Gif de Funcionalidad</b>
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DAMA2022UNICAES/react-weather-app/KerimHernandez/funcionamientoApp.gif?token=GHSAT0AAAAAABXASYLQXNRORDPDMBQ3CC3CYXRZDGQ" alt=""/>
+  <img src="https://github.com/KerimHB/Practica-01-10-2022/blob/main/img/loginPractica.gif?raw=true" alt=""/>
 </p>
